@@ -1,0 +1,15 @@
+{
+  "name": "thu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpmember.artmuseum.tsinghua.edu.cnjsjquery.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  }
+}

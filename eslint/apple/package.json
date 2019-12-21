@@ -1,0 +1,14 @@
+{
+  "name": "apple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpscdn.apple-mapkit.commk5.27.1mapkit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  }
+}
